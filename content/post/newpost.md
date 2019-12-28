@@ -4,8 +4,6 @@ title: "Disaster Response Pipeline Project"
 date: 2019-12-28
 ---
 
-# Disaster Response Pipeline Project
-
 This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. This project is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. Visit [https://github.com/adithyab94/Disaster-Response-Pipeline-Project](https://github.com/adithyab94/Disaster-Response-Pipeline-Project) to access the project
 
 ## File Description
