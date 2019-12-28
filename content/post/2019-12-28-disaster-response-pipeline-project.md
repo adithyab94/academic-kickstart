@@ -70,7 +70,7 @@ Example
 
 Type in: We have a lot of problem at Delma 75 Avenue Albert Jode, those people need water and food.
 
-<img class="cp t u fz ak" src="https://miro.medium.com/max/6720/1\*hC2pcz\_nqc9EuYxoXi6Y3w.png" width="3360" height="4138" role="presentation"/>
+<img class="cp t u fz ak" src="https://miro.medium.com/max/5880/1*hC2pcz_nqc9EuYxoXi6Y3w.png" width="3360" height="4138" role="presentation"/>
 
 Instructions to run the project: (Run run.py directly if DisasterResponse.db and claasifier.pkl already exist.)
 
