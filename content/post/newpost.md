@@ -6,8 +6,6 @@ date: 2019-12-28
 
 # Disaster Response Pipeline Project
 
-Originally published as a blog post on [![Medium](https://medium.com/@adibrao?)
-
 This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. This project is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. Visit [https://github.com/adithyab94/Disaster-Response-Pipeline-Project](https://github.com/adithyab94/Disaster-Response-Pipeline-Project) to access the project
 
 ## File Description
@@ -70,3 +68,5 @@ Type in: We have a lot of problem at Delma 75 Avenue Albert Jode, those people n
 2\. Run the following command in the app’s directory to run your web app. `python run.py`
 
 3\. Go to [http://0.0.0.0:3001/](http://0.0.0.0:3001/)
+
+Originally published as blog post on medium : [https://medium.com/@adibrao]
