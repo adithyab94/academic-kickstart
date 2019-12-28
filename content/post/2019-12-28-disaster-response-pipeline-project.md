@@ -2,7 +2,6 @@
 published: true
 title: "Disaster Response Pipeline Project"
 date: 2019-12-28
-categories: Data Engineering
 ---
 
 Disaster Response Pipeline Project
