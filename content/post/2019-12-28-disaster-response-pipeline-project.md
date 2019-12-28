@@ -4,17 +4,13 @@ title: "Disaster Response Pipeline Project"
 date: 2019-12-28
 ---
 
-Disaster Response Pipeline Project
-
-==================================
+# Disaster Response Pipeline Project
 
 Originally published as a blog post on [![Medium](https://medium.com/@adibrao?)
 
 This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. This project is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. Visit [https://github.com/adithyab94/Disaster-Response-Pipeline-Project](https://github.com/adithyab94/Disaster-Response-Pipeline-Project) to access the project
 
-File Description
-
-================
+## File Description
 
 ```
 .  
@@ -34,9 +30,7 @@ File Description
 
 The Project contains three components mainly,
 
-1\. ETL Pipeline
-
-================
+## 1\. ETL Pipeline
 
 Python script, `process_data.py`,
 
@@ -45,9 +39,7 @@ Python script, `process_data.py`,
 * Cleans the data
 * Stores it in a SQLite database
 
-2\. ML Pipeline
-
-===============
+## 2\. ML Pipeline
 
 Python script, `train_classifier.py`,
 
@@ -58,23 +50,17 @@ Python script, `train_classifier.py`,
 * Outputs results on the test set
 * Exports the final model as a pickle file
 
-3\. Flask Web App
-
-=================
+## 3\. Flask Web App
 
 Outputs the classification according to the input
 
 Example
 
-=======
-
 Type in: We have a lot of problem at Delma 75 Avenue Albert Jode, those people need water and food.
 
 <img class="cp t u fz ak" src="https://miro.medium.com/max/5880/1*hC2pcz_nqc9EuYxoXi6Y3w.png" width="3360" height="4138" role="presentation"/>
 
-Instructions to run the project: (Run run.py directly if DisasterResponse.db and claasifier.pkl already exist.)
-
-===============================================================================================================
+## Instructions to run the project: (Run run.py directly if DisasterResponse.db and claasifier.pkl already exist.)
 
 1\. Run the following commands in the project’s root directory to set up your database and model.
 
